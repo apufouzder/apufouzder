@@ -1,5 +1,6 @@
 ### Hi there, I'm Apu Fouzder👋
 
+## I am a 😍 Front End Web Developer 😍
 
 <hr>
 
@@ -11,3 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Apu Fouzder GitHub stats](https://github-readme-stats.vercel.app/api?username=apufouzder&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apufouzder&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
